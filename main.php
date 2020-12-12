@@ -8,6 +8,8 @@
 | Vennligst ikke fjern denne teksten.
 /==========================================*/
 
+include('config.php');
+
 session_start();
 
 foreach ($_GET as $check_url) {
