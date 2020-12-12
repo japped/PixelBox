@@ -1,3 +1,4 @@
+<?php
 mysql_connect(
 $host = "sql2.freesqldatabase.com";
 $database = "sql2381755";
@@ -7,3 +8,4 @@ $theme = "wuax_2_1";
 $redirect = "http://www.google.com";
 error_reporting(E_ALL ^ E_DEPRECATED);
 );
+?>
