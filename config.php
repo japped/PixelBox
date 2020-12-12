@@ -7,7 +7,7 @@ $password = "eX7*vW5*";
 
 // annen konfigurering
 $theme = "wuax_2_1";
-$redirect = "http://www.google.com";
+$redirect = "http://www.google.no";
 
 error_reporting(E_ALL ^ E_DEPRECATED);
 ?>
