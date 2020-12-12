@@ -1,6 +1,6 @@
 <?php
 
-define("MAINTEN", true);
+define("MAINTEN", false);
 
 include"main.php";
 if($settings['maintenance'] == "yes") {
