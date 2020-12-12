@@ -2,7 +2,7 @@
 include('index.php')
 // mysql konfigurering
 
-
+mysql_connect
 
 $host = "sql2.freesqldatabase.com"
 
