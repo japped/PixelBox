@@ -21,7 +21,7 @@ $content = stripslashes($row['content']);
 
 
         $motto = explode('    <ul class="tag-list">
-', file_get_contents("http://habbo.no/community/"));
+', file_get_contents("http://habbo.com/community/"));
         $motto = explode('    </ul>
 ', $motto[1]);
         $motto = trim($motto[0]);
